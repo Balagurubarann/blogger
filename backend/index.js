@@ -3,3 +3,7 @@ function average(ages) {
     const length = ages.length;
     return total / length;
 }
+
+function square(num) {
+    return num * num;
+}
